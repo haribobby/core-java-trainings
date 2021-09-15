@@ -85,7 +85,8 @@ Terminology
  - bark(), walk(), run(), sleep(), eat(), drink()
  
 ### Abstraction and Inheritance
-	 ```
+	
+```
 		abstract class Animal {
 	
 		private String color;
@@ -118,4 +119,4 @@ Terminology
 		
 		}
 
-	```
+```
