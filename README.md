@@ -83,4 +83,41 @@ Terminology
  
  - name, age, color 
  - bark(), walk(), run(), sleep(), eat(), drink()
+ 
+### Abstraction
+	 ```
+		abstract class Animal {
+	
+		private String color;
+		private int age;
+	
+		abstract void bark();
+	
+		public void run() {
+	
+			System.out.println("running...");
+		}
+	
+		}
+		
+		class Cat extends Animal { // cat is a animal
+		
+			public void bark() {
+		
+				System.out.println("Meow Meow");
+			}
+		
+		}
+		
+		class Dog extends Animal {
+		
+			public void bark() {
+		
+				System.out.println("Bow Bow");
+			}
+		
+		}
+
+	```
+ 
         
