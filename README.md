@@ -84,7 +84,7 @@ Terminology
  - name, age, color 
  - bark(), walk(), run(), sleep(), eat(), drink()
  
-### Abstraction
+### Abstraction and Inheritance
 	 ```
 		abstract class Animal {
 	
