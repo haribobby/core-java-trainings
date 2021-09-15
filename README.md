@@ -79,7 +79,7 @@ Terminology
 - Actions/Methods/Behaviour - What actions can be performed on each object?
 
 
-### Animal
+#### Animal
  
  - name, age, color 
  - bark(), walk(), run(), sleep(), eat(), drink()
