@@ -46,6 +46,23 @@ Passenger
 - name, address //data
 - takeCab(), checkin(), walk(), smile() //actions
 
+-------
+
+	OOP doesn't mean to "split up" code into random classes.
+
+	The ultimate goal of OOP is to reduce code duplication, improve readability and support reuse as well as extending the code.
+
+	Doing OOP means that you follow certain principles which are (among others):
+
+	information hiding / encapsulation
+	single responsibility
+	separation of concerns
+
+	https://docs.oracle.com/javase/tutorial/java/index.html
+
+-------
+
+
 ## Object Oriented Terminology
 
 ```

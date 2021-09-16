@@ -1,4 +1,4 @@
-package com.trainings.oops.abstarctionandinheritance;
+package com.trainings.oops.abstarction;
 
 abstract class Animal {
 
@@ -37,7 +37,7 @@ public class AbstarctionDemo {
 
 	public static void main(String[] args) {
 
-		// Animal animal = new Animal(); // Animal is born
+	//	 Animal animal = new Animal(); // Animal is born
 //
 //		Cat c = new Cat();
 //		c.bark();
