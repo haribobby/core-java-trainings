@@ -2,23 +2,23 @@ package com.trainings.oops.encapsulation;
 
 
 
-class Animal {
+class Cat {
 
 	private String name; // data (state)
 	private int age;
 	private String color;
 
-	Animal() {
-		System.out.println("Animal Constructor...");
+	Cat() {
+		System.out.println("Cat Constructor...");
 	}
 
-	Animal(String name, int age, String color) {
+	Cat(String name, int age, String color) {
 		this.name = name;
 		this.age = age;
 		this.color = color;
 	}
 
-//	Animal()
+//	cat()
 	// setters and getters methods
 	public String getName() {
 		return name;
@@ -67,40 +67,40 @@ public class EncapsulationDemo { // Runner or client
 
 	public static void main(String[] args) {
 
-		Animal animal = new Animal("cat", 3, "blue");
+		Cat cat = new Cat("abc", 3, "whoite");
 
-		System.out.println("animal1 age is... " + animal.getAge());
-		System.out.println(" animal1color is... " + animal.getColor());
-		System.out.println(" animal1 name is... " + animal.getName());
+		System.out.println("cat1 age is... " + cat.getAge());
+		System.out.println(" cat1color is... " + cat.getColor());
+		System.out.println(" cat1 name is... " + cat.getName());
 
 //		
 //		System.out.println();
 //		
 //		
-//		animal.setAge(3);
-//		animal.setColor("yellow");
-//		animal.setName("Cat");
+//		cat.setAge(3);
+//		cat.setColor("yellow");
+//		cat.setName("Cat");
 //		
 //		
-//		System.out.println("animal1 age is... " + animal.getAge());
-//		System.out.println(" animal1color is... " + animal.getColor());
-//		System.out.println(" animal1 name is... " + animal.getName());
+//		System.out.println("cat1 age is... " + cat.getAge());
+//		System.out.println(" cat1color is... " + cat.getColor());
+//		System.out.println(" cat1 name is... " + cat.getName());
 
-//		Animal animal2 = new Animal();
+//		Cat cat2 = new Cat();
 //
-////		animal.age = -10;
-////		animal.color = "yellow";
-////		animal.name ="Cat";
+////		cat.age = -10;
+////		cat.color = "yellow";
+////		cat.name ="Cat";
 //
-//		animal2.setAge(2);
-//		animal2.setColor("brown");
-//		animal2.setName("Dog");
+//		cat2.setAge(2);
+//		cat2.setColor("brown");
+//		cat2.setName("Dog");
 //	
 //
-//		System.out.println(" animal2 age is... " + animal2.getAge());
-//		System.out.println(" animal2 color is... " + animal2.getColor());
-//		System.out.println(" animal2 name is... " + animal2.getName());
-//		System.out.println(" animal1 hashcode... " + animal2.hashCode());
+//		System.out.println(" cat2 age is... " + cat2.getAge());
+//		System.out.println(" cat2 color is... " + cat2.getColor());
+//		System.out.println(" cat2 name is... " + cat2.getName());
+//		System.out.println(" cat1 hashcode... " + cat2.hashCode());
 
 	}
 
