@@ -3,7 +3,6 @@ package com.trainings.collections;
 public class EqualityRunner {
 
 	public static void main(String[] args) {
-		
 
 		// primitive equality comaprision
 //		int a = 2;
@@ -22,9 +21,9 @@ public class EqualityRunner {
 //		Student st5 = st3;
 //		
 //		System.out.println(st4.equals(st5));
-
-		Student st1 = new Student(100, "John", "IT"); // st1 - refernece
-		Student st2 = new Student(100, "John", "IT"); // st2 - refernece
+	
+			Student st1 = new Student(100, "John", "IT"); // st1 - refernece
+			Student st2 = new Student(100, "John", "IT"); // st2 - refernece
 
 		if (st1.equals(st2)) {
 			//not add to student list

@@ -1,6 +1,5 @@
 package com.trainings.collections;
 
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Stack;
@@ -16,14 +15,13 @@ public class ListRunner {
 		// C,U,D -> Linkedlist
 		//R - ArrayList
 
-		ArrayList al = new ArrayList(); // Container or basket
+		ArrayList al = new ArrayList();
 		al.add(1);
 		al.add("Hello");
 		al.add(new StringBuilder("builder"));
 		al.add(1);
 		
 		System.out.println("Arraylist is before remove ..."+al);
-		
 		
 		al.remove("Hello");
 		
