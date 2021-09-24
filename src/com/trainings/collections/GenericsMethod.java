@@ -29,6 +29,11 @@ public class GenericsMethod {
 
 	// line 20: <T> means We are saying to compiler this is an arbitrary type which can be any object.
 	// line 20: List<T> => getList method will return a List containing elements of that type T
-
 	
+	
+	static  <T extends Number> List<T> getList() {
+		return null;
+	}
+
+		
 }
