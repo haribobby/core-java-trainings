@@ -8,7 +8,10 @@ public class AnonymousInnerClassRunner {
 			
 			@Override
 			public void greeting(String message) {
-				System.out.println("Hi.... "+message);
+				System.out.println("Hi....Hello .. ssdfasd "+message);
+				for(int i=0; i<5;i++) {
+					System.out.println(i);
+				}
 				
 			}
 		};
