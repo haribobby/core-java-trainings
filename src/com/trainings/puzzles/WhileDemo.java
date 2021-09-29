@@ -13,4 +13,3 @@ public class WhileDemo {
 //		/System.out.println("Hi!!!");
 	}
 } 
-

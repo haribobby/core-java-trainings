@@ -51,6 +51,39 @@ public class ComparatorRunnerAnonymous {
 			}
 		});
 
+		
+		Collections.sort(carList, new Comparator<Car>() {
+
+			@Override
+			public int compare(Car car1, Car car2) {
+
+				// return car1.getRating() - car2.getRating();
+				return Integer.compare(car1.getRating(), car2.getRating());
+			}
+		});
+
+		
+		
+		Collections.sort(carList, new Comparator<Car>() {
+
+			@Override
+			public int compare(Car car1, Car car2) {
+
+				// return car1.getRating() - car2.getRating();
+				return Integer.compare(car1.getRating(), car2.getRating());
+			}
+		});
+
+		Collections.sort(carList, new Comparator<Car>() {
+
+			@Override
+			public int compare(Car car1, Car car2) {
+
+				// return car1.getRating() - car2.getRating();
+				return Integer.compare(car1.getRating(), car2.getRating());
+			}
+		});
+
 		System.out.println("Sorting by Rating.... " + carList); // Asc order 3 4 45
 
 	}

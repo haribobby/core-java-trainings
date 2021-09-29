@@ -5,7 +5,7 @@ public class ImmutabilityRunner {
 	
 	public static void main(String[] args) {
 		
-		
+//		
 		String s = "Hello"; // Literals
 		
 		String s1 = new String("Hello"); // new key word
@@ -20,8 +20,16 @@ public class ImmutabilityRunner {
 		
 		
 		System.out.println("StringBuilder data is.... "+sb);
-		
+//		
 		//ImmutabilityRunner@4EE
 		
+		
+//		 String val = "java";
+//		 val = "Python";
+//		 
+//		 System.out.println(val);
+		
 	}
+
 }
+

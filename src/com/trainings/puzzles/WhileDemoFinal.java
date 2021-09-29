@@ -16,15 +16,30 @@ public class WhileDemoFinal {
 //		Status.DELIVERED
 //		
 //		OrderStatus os = new OrderStatus();
-//		os.setStatus("DELIVERED");
+//		os.setStatus("SdfSD");
 		
 	}
 } 
 
 
+//enum DayOfTheWeek
+//{
+//	SUn
+//}
+//
+//enum Month{
+//	200,201,
+//}
+
 //enum Status{
 //	
 //	PENDING, INPROCESS, DISPATCH, DELIVERED
+//}
+
+
+//enum Status
+//{
+//	200, 300
 //}
 //
 //
