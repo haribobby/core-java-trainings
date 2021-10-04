@@ -41,26 +41,10 @@ public class ComparatorRunnerAnonymous {
 
 		System.out.println(" Before Sorting.... " + carList); // 3 4 5 4
 
-		Collections.sort(carList, new Comparator<Car>() {
-
-			@Override
-			public int compare(Car car1, Car car2) {
-
-				// return car1.getRating() - car2.getRating();
-				return Integer.compare(car1.getRating(), car2.getRating());
-			}
-		});
+		Collections.sort(carList, Comparator.comparingInt(Car::getRating));
 
 		
-		Collections.sort(carList, new Comparator<Car>() {
-
-			@Override
-			public int compare(Car car1, Car car2) {
-
-				// return car1.getRating() - car2.getRating();
-				return Integer.compare(car1.getRating(), car2.getRating());
-			}
-		});
+		Collections.sort(carList, (car1, car2) -> Integer.compare(car1.getRating(), car2.getRating()));
 
 		
 		

@@ -1,0 +1,13 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(¯õ¤ö8Ğ ‹·Ä/
+S
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯õ¤ö8ÚŒ·Ä/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ
+I
+java:S1144".Remove this unused private "printList" method.(Ä¡—µşÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†àë±ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Œôƒ­şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¨»…Õÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8…³·Ä/

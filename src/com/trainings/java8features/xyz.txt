@@ -1,0 +1,23 @@
+
+	A: 
+	System.out.println(someString.chars().filter(ch -> ch == 'e').count());
+	
+	
+	A2:
+	System.out.println(IntStream.of(arr).min().getAsInt());
+	IntSummaryStatistics statistics = IntStream.of(arr).summaryStatistics();
+	
+	B:
+	System.out.println(numbers.stream().filter(e -> e % 2 == 0).mapToInt(e -> e * 2).sum());
+	
+	C:
+	
+	D:
+	
+	static boolean isA__(int n) {
+		return n > 1 && IntStream.range(2, (int)Math.sqrt(n)+1).noneMatch(index -> n % index == 0);
+	}
+	
+	
+	
+	Function<Integer, Predicate<Integer>> isGreaterThan3 = pivot -> number -> number > pivot;
