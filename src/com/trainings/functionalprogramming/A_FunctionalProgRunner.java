@@ -18,7 +18,7 @@ public class A_FunctionalProgRunner {
 
 		greetImplA.wishMyFriend("Hi My frined!!");
 
-		IGreet lambdaGreet = s -> System.out.println(s);
+		IGreet lambdaGreet =  s -> System.out.println(s);
 		lambdaGreet.wishMyFriend("Hi .....");
 
 		IString stringLength = s -> s.length();
