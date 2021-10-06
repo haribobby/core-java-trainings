@@ -19,7 +19,19 @@ public class PredicateRunner {
 //		
 //		System.out.println(predicateAnonymous.test("java FP"));
 //		
+//		
+//		String s = "java";
+//		if(s.length()>5)
+//		{
+//			return true;
+//		}else
+//		{
+//			return false;
+//		}
 		
+		
+		Predicate<String> strPredicate = str -> str.length()>5; 
+		System.out.println(strPredicate.test("java1111"));
 		
 		
 		

@@ -2,6 +2,7 @@ package com.trainings.functionalprogramming;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class ComparatorLambdaRunner {
@@ -46,18 +47,23 @@ public class ComparatorLambdaRunner {
 		carList.add(c5);
 
 		System.out.println(" Before Sorting.... " + carList);
+		
+//		Comparator<T>
 
 //		
-//		Collections.sort(carList, new Comparator<Car>() {
-//
-//			@Override
-//			public int compare(Car car1, Car car2) {
-//
-//				return Integer.compare(car1.getRating(), car2.getRating());
-//			}
-//		});
+		Collections.sort(carList, new Comparator<Car>() {
+
+			@Override
+			public int compare(Car car1, Car car2) {
+
+				return Integer.compare(car1.getRating(), car2.getRating());
+			}
+		});
+
+		Collections.sort(carList, (car1, car2) -> Integer.compare(car1.getRating(), car2.getRating())); // Asc
 
 		Collections.sort(carList, (car1, car2) -> Integer.compare(car1.getRating(), car2.getRating()));
+//		Collections.sort(carList, Comparator.comparingInt(Car::getRating));
 
 		System.out.println(" After Sorting.... " + carList);
 
