@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23b86c0-d70a-43bc-ace3-baa411969cc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/342aa04ec2a36301e5d47343cb906905f35b1af1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/342aa04ec2a36301e5d47343cb906905f35b1af1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/634ce225a14dcdef3b90935a2d74d79397b54e60" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/634ce225a14dcdef3b90935a2d74d79397b54e60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caacb86e7935376e654a479a85e65b9497eb9cdc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caacb86e7935376e654a479a85e65b9497eb9cdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0534905e90664cde491fb0b2c69d66d7ba66141" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/342aa04ec2a36301e5d47343cb906905f35b1af1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/372f6a2212268d5ffd392ec36606ada2ec042d73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/634ce225a14dcdef3b90935a2d74d79397b54e60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9db1bfd587114c79d8670eb5f8c448fedd8b216e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6d27c2dcc75c76b8d57f9c383529a741f93d22c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caacb86e7935376e654a479a85e65b9497eb9cdc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/trainings/java8features/xyz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/A_FunctionalProgRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/A_FunctionalProgRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/A_FunctionalProgRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/A_FunctionalProgRunner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/ComparatorLambdaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/ComparatorLambdaRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/ConsumerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/ConsumerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/FunctionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/FunctionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/PredicateRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/PredicateRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/SupplierRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/SupplierRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/A_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/A_Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/A_Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/B_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/C_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/C_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/D_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/D_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/xyz.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -21,7 +37,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,10 +68,12 @@
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java" />
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java" />
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/F_FunctionalProgrammingRunner.java" />
+        <option value="$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java" />
+        <option value="$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1792" />
     <option name="height" value="1020" />
@@ -53,12 +90,47 @@
               <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
               <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trainings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trainings" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trainings" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="streamapipractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trainings" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="streamapipractice" type="462c0819:PsiDirectoryNode" />
+              <item name="EmployeeDepartmentStreamAPIPractice.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,9 +164,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1792" height="1020" extended-state="1" />
+    <frame x="0" y="23" width="1792" height="1020" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26685715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -170,6 +243,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>

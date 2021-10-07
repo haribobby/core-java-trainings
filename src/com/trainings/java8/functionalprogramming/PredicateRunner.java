@@ -1,4 +1,4 @@
-package com.trainings.functionalprogramming;
+package com.trainings.java8.functionalprogramming;
 
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;

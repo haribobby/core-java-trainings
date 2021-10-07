@@ -1,10 +1,10 @@
-package com.trainings.java8features;
+package com.trainings.java8vslegacy;
 
 public class A_Test {
 
 	public static void main(String[] args) {
 
-		String someString = "elephantee";
+		String someString = "elephante";
 		char someChar = 'e';
 		int count = 0;
 
@@ -16,7 +16,7 @@ public class A_Test {
 
 		System.out.println(count);
 		
-	//	System.out.println(someString.chars().filter(ch -> ch == 'e').count());
+		System.out.println(someString.chars().filter(ch -> ch == 'e').count());
 		
 	}
 }

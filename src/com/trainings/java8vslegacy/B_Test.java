@@ -1,4 +1,4 @@
-package com.trainings.java8features;
+package com.trainings.java8vslegacy;
 
 import java.util.List;
 
@@ -16,6 +16,9 @@ public class B_Test {
 		}
 
 		System.out.println(result);
+		
+		
+		System.out.println(numbers.stream().filter(e -> e % 2 == 0).mapToInt(e -> e * 2).sum());
 
 	}
 }

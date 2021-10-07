@@ -1,4 +1,4 @@
-package com.trainings.java8features;
+package com.trainings.java8vslegacy;
 
 import java.util.List;
 
@@ -17,5 +17,6 @@ public class C_Test {
 			System.out.println(integer);
 		}
 
+		numbers.forEach(number -> System.out.println(number));
 	}
 }

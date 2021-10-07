@@ -1,4 +1,4 @@
-package com.trainings.functionalprogramming;
+package com.trainings.java8.functionalprogramming;
 
 import java.util.function.Supplier;
 

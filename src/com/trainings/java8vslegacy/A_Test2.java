@@ -1,5 +1,6 @@
-package com.trainings.java8features;
+package com.trainings.java8vslegacy;
 
+import java.util.Arrays;
 import java.util.stream.IntStream;
 
 public class A_Test2 {
@@ -11,6 +12,7 @@ public class A_Test2 {
 		System.out.println(find__(arr));
 
 		System.out.println(IntStream.of(arr).min().getAsInt());
+		System.out.println(Arrays.stream(arr).min().getAsInt());
 
 	}
 

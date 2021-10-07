@@ -1,4 +1,4 @@
-package com.trainings.functionalprogramming;
+package com.trainings.java8.functionalprogramming;
 
 public class A_FunctionalProgRunner {
 

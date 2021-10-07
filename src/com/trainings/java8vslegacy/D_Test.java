@@ -1,4 +1,6 @@
-package com.trainings.java8features;
+package com.trainings.java8vslegacy;
+
+import java.util.stream.IntStream;
 
 public class D_Test {
 
@@ -27,6 +29,11 @@ public class D_Test {
 				return false;
 		}
 		return true;
+	}
+
+	static boolean isA__(int n) {
+		return n > 1 && IntStream.range(2, n).noneMatch(index -> n % index == 0);
+
 	}
 
 }
