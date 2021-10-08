@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23b86c0-d70a-43bc-ace3-baa411969cc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/342aa04ec2a36301e5d47343cb906905f35b1af1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/372f6a2212268d5ffd392ec36606ada2ec042d73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/634ce225a14dcdef3b90935a2d74d79397b54e60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9db1bfd587114c79d8670eb5f8c448fedd8b216e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6d27c2dcc75c76b8d57f9c383529a741f93d22c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caacb86e7935376e654a479a85e65b9497eb9cdc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/trainings/java8features/xyz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/A_FunctionalProgRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/A_FunctionalProgRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/A_FunctionalProgRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/A_FunctionalProgRunner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/ComparatorLambdaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/ComparatorLambdaRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/ConsumerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/ConsumerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/FunctionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/FunctionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/PredicateRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/PredicateRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/functionalprogramming/SupplierRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8/functionalprogramming/SupplierRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/A_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/A_Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/A_Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/B_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/C_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/C_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/D_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/D_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/trainings/java8features/xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/trainings/java8vslegacy/xyz.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -37,21 +17,61 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="700">
+              <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+              <folding>
+                <element signature="e#2418#2428#0" expanded="true" />
+                <element signature="e#4993#4994#0" expanded="true" />
+                <element signature="e#5009#5010#0" expanded="true" />
+                <element signature="e#5043#5044#0" expanded="true" />
+                <element signature="e#5062#5063#0" expanded="true" />
+                <element signature="e#5090#5091#0" expanded="true" />
+                <element signature="e#5108#5109#0" expanded="true" />
+                <element signature="e#5145#5146#0" expanded="true" />
+                <element signature="e#5168#5169#0" expanded="true" />
+                <element signature="e#5196#5197#0" expanded="true" />
+                <element signature="e#5213#5214#0" expanded="true" />
+                <element signature="e#5249#5250#0" expanded="true" />
+                <element signature="e#5270#5271#0" expanded="true" />
+                <element signature="e#5300#5301#0" expanded="true" />
+                <element signature="e#5320#5321#0" expanded="true" />
+                <element signature="e#5361#5362#0" expanded="true" />
+                <element signature="e#5388#5389#0" expanded="true" />
+                <element signature="e#5422#5423#0" expanded="true" />
+                <element signature="e#5446#5447#0" expanded="true" />
+                <element signature="e#5495#5496#0" expanded="true" />
+                <element signature="e#5530#5531#0" expanded="true" />
+                <element signature="e#5568#5569#0" expanded="true" />
+                <element signature="e#5595#5596#0" expanded="true" />
+                <element signature="e#5651#5652#0" expanded="true" />
+                <element signature="e#5692#5693#0" expanded="true" />
+                <element signature="e#5722#5723#0" expanded="true" />
+                <element signature="e#5742#5743#0" expanded="true" />
+                <element signature="e#5783#5784#0" expanded="true" />
+                <element signature="e#5810#5811#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
+        <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/dates/Java8DateRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="408">
+              <caret line="24" column="45" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -68,12 +88,13 @@
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java" />
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java" />
         <option value="$PROJECT_DIR$/src/com/trainings/java8features/F_FunctionalProgrammingRunner.java" />
-        <option value="$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java" />
         <option value="$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java" />
+        <option value="$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java" />
+        <option value="$PROJECT_DIR$/src/com/trainings/java8/dates/Java8DateRunner.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1792" />
     <option name="height" value="1020" />
@@ -114,6 +135,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="trainings" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="dates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-java-trainings-lat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-java-trainings-lat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trainings" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="streamapipractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,6 +165,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -149,6 +179,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Java8DateRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trainings.java8.dates.Java8DateRunner" />
+      <module name="java_practice_oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trainings.java8.dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java8DateRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -167,16 +217,18 @@
     <frame x="0" y="23" width="1792" height="1020" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26685715" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16228572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.22413793" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,59 +256,61 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/F_FunctionalProgrammingRunner.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/xyz.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/xyz.txt" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/D_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/C_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/A_Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="90" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/D_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/C_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/B_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/A_Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8features/A_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="113">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/EmployeeDepartmentStreamAPIPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="700">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+          <folding>
+            <element signature="e#2418#2428#0" expanded="true" />
+            <element signature="e#4993#4994#0" expanded="true" />
+            <element signature="e#5009#5010#0" expanded="true" />
+            <element signature="e#5043#5044#0" expanded="true" />
+            <element signature="e#5062#5063#0" expanded="true" />
+            <element signature="e#5090#5091#0" expanded="true" />
+            <element signature="e#5108#5109#0" expanded="true" />
+            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5168#5169#0" expanded="true" />
+            <element signature="e#5196#5197#0" expanded="true" />
+            <element signature="e#5213#5214#0" expanded="true" />
+            <element signature="e#5249#5250#0" expanded="true" />
+            <element signature="e#5270#5271#0" expanded="true" />
+            <element signature="e#5300#5301#0" expanded="true" />
+            <element signature="e#5320#5321#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <element signature="e#5388#5389#0" expanded="true" />
+            <element signature="e#5422#5423#0" expanded="true" />
+            <element signature="e#5446#5447#0" expanded="true" />
+            <element signature="e#5495#5496#0" expanded="true" />
+            <element signature="e#5530#5531#0" expanded="true" />
+            <element signature="e#5568#5569#0" expanded="true" />
+            <element signature="e#5595#5596#0" expanded="true" />
+            <element signature="e#5651#5652#0" expanded="true" />
+            <element signature="e#5692#5693#0" expanded="true" />
+            <element signature="e#5722#5723#0" expanded="true" />
+            <element signature="e#5742#5743#0" expanded="true" />
+            <element signature="e#5783#5784#0" expanded="true" />
+            <element signature="e#5810#5811#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/streamapipractice/ParcticeStreamsAPI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/trainings/java8/dates/Java8DateRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="408">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="45" />
         </state>
       </provider>
     </entry>

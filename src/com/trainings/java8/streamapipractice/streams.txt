@@ -1,0 +1,40 @@
+
+
+------------
+	// 1. Print all employees
+		// employeeList.stream().forEach(employee -> System.out.println(employee));
+
+		// 2.print employee whose age is less than equal 30
+		// employeeList.stream().filter(emp-> emp.getAge()>31).forEach(employee ->
+		// System.out.println(employee));
+
+		// 3.Print the name of all departments in the organization
+		// employeeList.stream().map(emp ->
+		// emp.getDepartment()).distinct().forEach(depname ->
+		// System.out.println(depname));
+
+		// 4. Get the names of all employees who have joined after 2015?
+		// employeeList.stream().filter(e -> e.getYearOfJoining()>2015).map(emp ->
+		// emp.getName()).forEach(depname -> System.out.println(depname));
+
+		// 5.Who has the most working experience in the organization?
+		// Employee e = employeeList.stream().sorted((e1,e2) ->
+		// Integer.compare(e1.getYearOfJoining(),e2.getYearOfJoining())).limit(1).findFirst().get();
+		// System.out.println(e);
+
+		// 6.How many male and female employees are there in the organization?
+//		Map<String, Long> noOfMaleAndFemaleEmployees = employeeList.stream()
+//				.collect(Collectors.groupingBy(e -> e.getGender(), Collectors.counting()));
+//		System.out.println(noOfMaleAndFemaleEmployees);
+		
+		//7.Count the number of employees in each department?
+//		Map<String, Long> employeeCountByDepartment=
+//				employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment, Collectors.counting()));
+//		System.out.println(employeeCountByDepartment);
+		
+		//8.How many male and female employees are there in the sales and marketing team?
+//		Map<String, Long> countMaleFemaleEmployeesInProductDevelopment=
+//				employeeList.stream()
+//				            .filter(e -> e.getDepartment()=="Product Development")
+//				            .collect(Collectors.groupingBy(Employee::getGender, Collectors.counting()));
+//		System.out.println(countMaleFemaleEmployeesInProductDevelopment);
