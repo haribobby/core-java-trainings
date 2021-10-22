@@ -3,8 +3,9 @@ package com.trainings.puzzles;
 public class MethodOverrdingTestMain {
 
 	public static void main(String[] args) {
-		A1 a1 = new B1();
-		//a1.method2();
+		A1 a1 = new B1(); // DMD
+//		a1.method2();
+
 	}
 }
 
@@ -16,6 +17,8 @@ class A1 {
 }
 
 class B1 extends A1 {
+
+	@Override
 	public void method1() {
 		System.out.println("Method1 in class B");
 	}

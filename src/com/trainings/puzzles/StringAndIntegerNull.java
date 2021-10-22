@@ -6,5 +6,10 @@ public class StringAndIntegerNull {
 		//Integer i = new Integer(null);
 
 		//String s = new String(null);
+		
+//		
+//		Integer i = new Integer(null);
+//		
+//		String s = new String(null);
 	}
 }

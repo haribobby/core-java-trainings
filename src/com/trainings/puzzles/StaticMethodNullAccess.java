@@ -1,11 +1,12 @@
 package com.trainings.puzzles;
 
 public class StaticMethodNullAccess {
+	
 	public static void main(String[] args) {
 	
-//		A a = null;
-//
-//		a.staticMethod();
+		A a = null;
+
+		a.staticMethod();
 	}
 }
 
