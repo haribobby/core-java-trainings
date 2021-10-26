@@ -8,6 +8,9 @@ public class HelloWorld {
 	public static void main(String[] args) throws InterruptedException {
 		
 		
+		
+		System.out.println(Runtime.getRuntime().availableProcessors());
+		
 		System.out.println(Thread.currentThread().getName());
 
 

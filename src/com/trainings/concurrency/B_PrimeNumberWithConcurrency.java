@@ -23,6 +23,10 @@ public class B_PrimeNumberWithConcurrency {
 				int number = PrimeNumberUtili.calculteNthPrimeNumber(n);
 				System.out.println("\n Value of " + n + "th prime number is: " + number);
 			}).start();
+			
+//			100 TC   -> N>1Million 
+			
+		
 
 		}
 	}
