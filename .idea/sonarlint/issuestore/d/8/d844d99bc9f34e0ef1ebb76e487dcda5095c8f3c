@@ -1,0 +1,10 @@
+
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Œ³èİ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(çø¥™
+C
+java:S16043"(Make this anonymous inner class a lambda(’™ûùÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(’™ûùÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(Œ³èİ
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(¥ú¼M
+Q	java:S125{"<This block of commented-out lines of code should be removed.(ûæØÆ

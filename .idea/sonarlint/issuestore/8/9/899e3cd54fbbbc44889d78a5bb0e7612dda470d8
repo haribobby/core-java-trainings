@@ -1,0 +1,32 @@
+
+q
+java:S1192V"TDefine a constant instead of duplicating this literal "Sales And Marketing" 3 times.(ùÇƒâ8 ¶çóÅ/
+i
+java:S1192Y"GDefine a constant instead of duplicating this literal "Female" 5 times.(Ë°„Íşÿÿÿÿ8 ¶çóÅ/
+q
+java:S1192X"TDefine a constant instead of duplicating this literal "Product Development" 4 times.(—•ğ”8 ¶çóÅ/
+i
+java:S1192U"LDefine a constant instead of duplicating this literal "IT Services" 3 times.(”áª”8 ¶çóÅ/
+h
+java:S11923"FDefine a constant instead of duplicating this literal "Other" 3 times.(°ÜñÑúÿÿÿÿ8 ¶çóÅ/
+[
+java:S49733"9Use the "equals" method if value comparison was intended.(°ÜñÑúÿÿÿÿ8 ¶çóÅ/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8 ¶çóÅ/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8 ¶çóÅ/
+p
+java:S1854!"SRemove this useless assignment to local variable "employeeNamesWhoJoinedAfter2015".(‰ü„8 ¶çóÅ/
+X	java:S125"<This block of commented-out lines of code should be removed.(³Ï¡ğ8 ¶çóÅ/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ñ´Á‡ıÿÿÿÿ8 ¶çóÅ/
+X	java:S125"<This block of commented-out lines of code should be removed.(³íÀ‹8 ¶çóÅ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÆÀûı8 ¶çóÅ/
+]	java:S125'"<This block of commented-out lines of code should be removed.(œâŞ‘ÿÿÿÿÿ8 ¶çóÅ/
+]	java:S125-"<This block of commented-out lines of code should be removed.(´Îí°úÿÿÿÿ8 ¶çóÅ/
+]	java:S1254"<This block of commented-out lines of code should be removed.(òñÌëúÿÿÿÿ8 ¶çóÅ/
+X	java:S125:"<This block of commented-out lines of code should be removed.(üš¡8 ¶çóÅ/
+X	java:S125?"<This block of commented-out lines of code should be removed.(ó¥ˆã8 ¶çóÅ/
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îİ—äşÿÿÿÿ8 ¶çóÅ/
+a
+java:S1481!"DRemove this unused "employeeNamesWhoJoinedAfter2015" local variable.(‰ü„8 ¶çóÅ/
