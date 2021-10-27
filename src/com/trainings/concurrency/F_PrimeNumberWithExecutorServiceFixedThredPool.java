@@ -8,7 +8,7 @@ public class F_PrimeNumberWithExecutorServiceFixedThredPool {
 
 	public static void main(String[] args) {
 
-		ExecutorService executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
+		ExecutorService executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors()); // 12 threads
 
 		while (true) {
 
@@ -31,7 +31,7 @@ public class F_PrimeNumberWithExecutorServiceFixedThredPool {
 //			}).start();
 
 			executorService.execute(() -> {
-				int number = PrimeNumberUtili.calculteNthPrimeNumber(n);
+				int number = PrimeNumberUtili9.calculteNthPrimeNumber(n);
 				System.out.println("\n Value of " + n + "th prime number is: " + number);
 			});
 
@@ -39,7 +39,7 @@ public class F_PrimeNumberWithExecutorServiceFixedThredPool {
 	}
 }
 
-class PrimeNumberUtili {
+class PrimeNumberUtili9 {
 	
 //	i/O or CPU
 

@@ -20,6 +20,7 @@ public class B_PrimeNumberWithConcurrency {
 			// start the thread
 
 			new Thread(() -> {
+			
 				int number = PrimeNumberUtili.calculteNthPrimeNumber(n);
 				System.out.println("\n Value of " + n + "th prime number is: " + number);
 			}).start();
